@@ -1,0 +1,28 @@
+.sidebar {
+  background-color: #f8f9fa;
+  height: 100vh;
+}
+
+.sidebar .nav-link {
+  color: #333;
+}
+
+.sidebar .nav-link.active {
+  color: #007bff;
+}
+
+.sidebar .nav-item {
+    margin-bottom: 160px;
+}
+
+.my-image {
+    width: 55%;
+    height: auto;
+}
+
+.audio-container {
+    clear: both;
+    display: block;
+    margin-top: 15vh;
+    margin-right: 15vh;
+  }

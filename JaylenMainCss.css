@@ -1,0 +1,16 @@
+.sidebar {
+  background-color: #f8f9fa;
+  height: 100vh;
+}
+
+.sidebar .nav-link {
+  color: #333;
+}
+
+.sidebar .nav-link.active {
+  color: #007bff;
+}
+
+.sidebar .nav-item {
+    margin-bottom: 160px;
+}
